@@ -6,7 +6,8 @@ Final-year B.Tech student in **Data Science & AI** at Dr. M.G.R. Educational and
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**AI Resume Screener**](https://github.com/Shafeeqah05/AI--Resume-Screener) | Ranks candidates by scoring batch-uploaded resumes with an LLM. [Live demo](https://ai-resume-screener-wine.vercel.app) | FastAPI, React, SQLAlchemy, JWT, Gemini |
+| [**AI Resume Screener**](https://github.com/Shafeeqah05/AI--Resume-Screener) | Ranks candidates by scoring batch-uploaded resumes with an LLM | FastAPI, React, SQLAlchemy, JWT, Gemini |
+| **Indus Vault AI** | On-premise agentic AI workbench that runs open-weight LLMs locally for confidential industrial work: OCR, RAG, sandboxed code execution, and audit logging | FastAPI, Ollama, ChromaDB, Tesseract |
 | **RoadSafe India** | Road-safety incident reporting and risk prediction, built at the IBM Expert Labs National Hackathon 2026 (Diversity Achiever Award) | FastAPI, SQLAlchemy |
 | **TRUSTORA** | Multi-agent trust scoring framework with a blockchain-backed ledger, presented at IEEE YUKTI'26 | Multi-agent systems, Python |
 
